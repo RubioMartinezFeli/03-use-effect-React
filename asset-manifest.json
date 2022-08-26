@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/03-use-effect-React/static/css/main.f6f0e1fd.css",
+    "main.js": "/03-use-effect-React/static/js/main.6a64a8e7.js",
+    "static/js/787.ae4e781f.chunk.js": "/03-use-effect-React/static/js/787.ae4e781f.chunk.js",
+    "static/media/logo.svg": "/03-use-effect-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/03-use-effect-React/index.html",
+    "main.f6f0e1fd.css.map": "/03-use-effect-React/static/css/main.f6f0e1fd.css.map",
+    "main.6a64a8e7.js.map": "/03-use-effect-React/static/js/main.6a64a8e7.js.map",
+    "787.ae4e781f.chunk.js.map": "/03-use-effect-React/static/js/787.ae4e781f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f0e1fd.css",
+    "static/js/main.6a64a8e7.js"
+  ]
+}
